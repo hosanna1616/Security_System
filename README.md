@@ -3,7 +3,7 @@
 ![Security-Systems Banner](/public/images/Security.png)
 
 A modern security systems company website built with Next.js, Tailwind CSS, and Framer Motion featuring dynamic theming, video backgrounds, and animated UI components.
-
+build by hosanna walle and feven tolosa contribution for INSA.
 ## Features
 
 - 🌓 **Dark/Light Mode Toggle** - Defaults to dark mode with persistent theme preference
